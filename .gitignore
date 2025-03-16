@@ -1,0 +1,19 @@
+# Go binaries
+/bin/
+/obj/
+
+# Go workspace files
+/.vscode/
+/.idea/
+
+# Dependency directories (Go modules)
+vendor/
+
+# OS-specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
