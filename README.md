@@ -20,8 +20,8 @@ This project demonstrates a simple implementation of a blockchain using Go. It s
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/blockchain-go.git
-    cd blockchain-go
+    git clone https://github.com/adammast/bookstore-blockchain-go.git
+    cd bookstore-blockchain-go
     ```
 
 2. Install dependencies (if any):
